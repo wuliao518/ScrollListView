@@ -1,6 +1,7 @@
 # ScrollListView
-实在不知道该如何描述这种效果
 
+##实在不知道该如何描述这种效果
+![](https://github.com/wuliao518/ScrollListView/blob/master/art/20150626183526.gif)
 #用法
 ~~~xml
     <com.jiang.scrolllist.view.ScrollListView
